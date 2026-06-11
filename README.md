@@ -3,10 +3,10 @@
 <p align="center">Passionate developer interested in creating impactful software solutions.</p>
 
 <div align="center">
-  <a href="https://github.com/euricodande12">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=euricodande12&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/><br>
-    <img height="142em" src="https://github-readme-streak-stats.herokuapp.com/?user=euricodande12&theme=prussian&hide_border=false"/><br>
-    <img height="228em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euricodande12&layout=compact&langs_count=7&theme=prussian"/>
+  <a href="https://github.com/euricodande">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=euricodande&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/><br>
+    <img height="142em" src="https://github-readme-streak-stats.herokuapp.com/?user=euricodande&theme=prussian&hide_border=false"/><br>
+    <img height="228em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euricodande&layout=compact&langs_count=7&theme=prussian"/>
   </a>
 </div>
 
