@@ -1,52 +1,95 @@
 <h2 align="center"> Hello! I'm Eurico Dande. 👋</h2>
 
-<p align="center">Passionate developer interested in creating impactful software solutions.</p>
-
-<div align="center">
-  <a href="https://github.com/euricodande">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=euricodande&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/><br>
-    <img height="142em" src="https://github-readme-streak-stats.herokuapp.com/?user=euricodande&theme=prussian&hide_border=false"/><br>
-    <img height="228em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euricodande&layout=compact&langs_count=7&theme=prussian"/>
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <h3>Technologies & Tools</h3>
-  <p align="center">
-  <!-- Top row -->
-  <img alt="Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img alt="TailwindCSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/tailwindcss/tailwindcss-plain.svg">
-  
-  <br>
-  
-  <!-- Bottom row -->
-  <img alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="Ballerina" height="50" width="50" src="https://ballerina.io/img/ballerina-logo.svg">
-  <img alt="MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img alt="SQL Server" height="50" width="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
-  <img alt="Figma" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+<p align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Final-Year+Software+Engineering+Student;Java+Spring+Boot+%7C+Next.js+%7C+Docker;Building+Full-Stack+Projects;Looking+for+Internship+%2F+WIL+Opportunities" />  
 </p>
 
-</div>
+<p align="center"> 
+  <a href="mailto:euricodande12@gmail.com"> 
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  </a> 
+  <a href="YOUR_PORTFOLIO_LINK_HERE"> 
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white" /> 
+  </a> 
+  <a href="YOUR_LINKEDIN_LINK_HERE"> 
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a> 
+</p>
 
-<br />
+## About Me
 
-<div align="center"> 
-  <a href="https://instagram.com/euricodande12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:euricodande12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://twitter.com/euricodande12" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/eurico-dande-22237223b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</div>
+I'm a **Final-year Software Engineering student** at **NUST (Namibia University of Science and Technology)**, passionate about building practical, real-world software.
 
-<br />
+I'm currently focused on becoming a **full-stack developer** by building projects that include:
+
+- Backend development
+- REST APIs
+- Databases
+- Authentication & Authorization
+- Docker
+- Deployment
+
+Currently learning and improving:
+
+**Java Spring Boot • Next.js • Docker • Flutter • Python**
 
 ---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nextjs,tailwind,html,css,bootstrap,cs,python,mysql,postgres&perline=7" />
+</p>
+
+## IDEs and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,webstorm,pycharm,docker,git,github,androidstudio,postman,figma,supabase,sublime,mint&perline=7" />
+</p>
+
+---
+
+## Featured Projects
+
+### Namibia Student Housing Platform
+
+A full-stack web application that helps students find accommodation across Namibia.
+
+**Tech Stack**
+
+`Java` • `Spring Boot` • `PostgreSQL` • `Docker` • `React.js`
+
+**Repository:** *(Coming Soon)*
+
+---
+
+### Personal Portfolio
+
+A modern portfolio website showcasing my projects, skills, and internship readiness.
+
+**Tech Stack**
+
+`Next.js` • `TypeScript` • `Tailwind CSS`
+
+**Repository:** *(Link to be added)*
+
+---
+
+## Currently Working On
+
+- Building the Namibia Student Housing Platform
+- Learning Docker & DevOps
+- Learning Flutter for cross-platform mobile development
+- Improving my Python skills for data analysis
+
+## GitHub Stats
+
+<p align="center"> 
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=euricodande&theme=tokyonight" /> 
+</p>
+
+<div align="center"> 
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=euricodande&theme=tokyonight" /> 
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=euricodande&theme=tokyonight" /> </div>
 
 <h3 align="center">Let's connect and collaborate! 😃</h3>
