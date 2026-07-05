@@ -59,7 +59,7 @@ A full-stack web application that helps students find accommodation across Namib
 
 `Java` • `Spring Boot` • `PostgreSQL` • `Docker` • `React.js`
 
-**Repository:** *(Coming Soon)*
+**Repository:** *[namibia-student-housing-platform](https://github.com/euricodande/namibia-student-housing-platform)*
 
 ---
 
@@ -71,7 +71,7 @@ A modern portfolio website showcasing my projects, skills, and internship readin
 
 `Next.js` • `TypeScript` • `Tailwind CSS`
 
-**Repository:** *(Link to be added)*
+**Repository:** *[eurico-dande](https://github.com/euricodande/eurico-dande)*
 
 ---
 
